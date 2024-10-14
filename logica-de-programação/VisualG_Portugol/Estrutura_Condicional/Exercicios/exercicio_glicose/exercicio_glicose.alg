@@ -4,7 +4,6 @@ algoritmo "exercicio_glicose"
 var
 
 medida_glicose : real
-classificacao: caractere
 
 inicio
 

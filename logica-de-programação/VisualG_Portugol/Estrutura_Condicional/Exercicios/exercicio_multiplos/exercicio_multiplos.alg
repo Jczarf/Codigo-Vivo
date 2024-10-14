@@ -5,7 +5,7 @@ var
 numero1:inteiro
 numero2:inteiro
 multiplos: inteiro
-verificacao: inteiro
+
 
 
 inicio

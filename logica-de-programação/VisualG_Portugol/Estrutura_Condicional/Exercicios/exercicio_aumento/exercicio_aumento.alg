@@ -4,7 +4,6 @@ var
 
 salario : real
 salario_final : real
-aumento_salario : real
 percentual_salario : real
 
 
