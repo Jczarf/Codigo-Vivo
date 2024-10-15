@@ -1,6 +1,0 @@
-Algoritmo "Primeiro"
-
-Inicio
-
-
-Fimalgoritmo

@@ -11,27 +11,21 @@ var
 
 Inicio
 
-
-
-
       escreva("Digite seu nome: ")
       leia(nome)
       escreval("Digite sua idade: ")
       leia(idade)
-      escreval("Digite quanto você ganhou nos dois ultimos meses: ")
+      escreval("Digite quanto vocï¿½ ganhou nos dois ultimos meses: ")
       leia(salario1)
       leia(salario2)
       operacao <- salario1 * salario2
-      escreval(" Você ganhou : ",operacao)
+      escreval(" Vocï¿½ ganhou : ",operacao)
 
 
 
       escreval("Dados digitados: ")
       escreval("Nome = ", nome)
       
-
-
-
 
 
 Fimalgoritmo

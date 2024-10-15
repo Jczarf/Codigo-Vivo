@@ -17,9 +17,4 @@ escreva("AREA = ",calculo_PI:8:3)
 
 
 
-
-
-
-
-
 Fimalgoritmo
