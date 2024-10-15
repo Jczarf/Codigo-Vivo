@@ -20,20 +20,24 @@ Estou focando em conceitos como variáveis, operadores e entrada/saída, aplican
 
 ---
 
+
 ### 📑 Índice de Exercícios
 
-- [Exercicio_Terreno](./Exercicios/terreno)
-- [Exercicio_TROCO](./Exercicios/troco)
-- [Exercicio_SOMA](./Exercicios/soma)
-- [Exercicio_Retangulo](./Exercicios/retangulo)
-- [Exercicio_PAGAMENTO](./Exercicios/pagamento)
-- [EXERCICIO_MEDIDAS](./Exercicios/medidas)
-- [EXERCICIO_IDADE](./Exercicios/idade)
-- [Exercicio_Fixacao](./Exercicios/fixacao)
-- [EXERCICIO_DURACAO](./Exercicios/duracao)
-- [EXERCICIO_CONSUMO](./Exercicios/consumo)
-- [Exercicio_CIRCULO](./Exercicios/circulo)
-- [Calculadora_IMC](./Exercicios/imc)
+- [calculadora_imc](./Exercicios/calculadora_imc)
+- [exercicio_circulo](./Exercicios/exercicio_circulo)
+- [exercicio_consumo](./Exercicios/exercicio_consumo)
+- [exercicio_duracao](./Exercicios/exercicio_duracao)
+- [exercicio_fixacao](./Exercicios/exercicio_fixacao)
+- [exercicio_idade](./Exercicios/exercicio_idade)
+- [exercicio_medidas](./Exercicios/exercicio_medidas)
+- [exercicio_pagamento](./Exercicios/exercicio_pagamento)
+- [exercicio_retangulo](./Exercicios/exercicio_retangulo)
+- [exercicio_soma](./Exercicios/exercicio_soma)
+- [exercicio_terreno](./Exercicios/exercicio_terreno)
+- [exercicio_troco](./Exercicios/exercicio_troco)
+
+---
+
 
 ---
 
