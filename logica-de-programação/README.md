@@ -10,7 +10,7 @@ O objetivo é consolidar meu entendimento sobre algoritmos, controle de fluxo, o
 
 ## 📚 Índice
 
-  - [Visualg/Portugol](/logica-de-programação/VisualG%20logica%20de%20programação)
+  - [Visualg/Portugol](/logica-de-programação/VisualG_Portugol/)
   - [Java](#java)
   - [Python](#python)
   - [C++](#c)
