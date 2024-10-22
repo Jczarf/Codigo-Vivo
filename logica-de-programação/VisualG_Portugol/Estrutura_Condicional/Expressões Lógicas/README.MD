@@ -126,3 +126,7 @@ Aqui temos dois candidatos para a vaga. Um deles tem experiência na área de de
 - Para João: **NÃO** (Experiência como desenvolvedor) = Verdadeiro (pois ele não tem experiência nessa área).
 
 **Conclusão**: João cumpre o requisito, pois ele **não tem** experiência na área de desenvolvimento.
+
+### Licença
+
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](/LICENSE.md) para mais detalhes.

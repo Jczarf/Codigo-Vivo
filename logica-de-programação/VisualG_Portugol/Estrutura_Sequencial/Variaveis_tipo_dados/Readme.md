@@ -46,3 +46,8 @@ O tipo de dado, como no exemplo dos talheres 🍴, é o tipo que eu vou atribuir
 - **Lógico** ⚖️: Armazena valores booleanos, que podem ser **verdadeiro** ou **falso**. É útil para representar condições.  
   - **Exemplo**: `caixa_logica : logico`  
   - **Valores possíveis**: verdadeiro, falso.
+
+
+### Licença
+
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.md).
