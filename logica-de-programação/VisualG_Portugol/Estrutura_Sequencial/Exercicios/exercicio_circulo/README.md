@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Círculo
 
-<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/circulo/circulo.alg">EXERCICIO_CIRCULO.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/exercicio_circulo/EXERCICIO_CIRCULO.ALG">EXERCICIO_CIRCULO.ALG</a>
 
 ### Descrição
 
@@ -67,4 +67,4 @@ AREA = 28.274
 
 ### Licença
 
-Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](LICENSE).
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.md).

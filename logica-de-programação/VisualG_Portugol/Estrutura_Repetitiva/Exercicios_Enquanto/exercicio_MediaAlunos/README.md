@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Média dos Alunos
 
-<a href="/logica-de-programacao/VisualG_Portugol/Estrutura_Condicional/Exercicios/exercicio_media_alunos/exercicio_media_alunos.alg">EXERCICIO_MEDIA_ALUNOS.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Repetitiva/Exercicios_Enquanto/exercicio_MediaAlunos/exercicio_MediaAlunos.alg">EXERCICIO_MEDIA_ALUNOS.ALG</a>
 
 ### Descrição
 

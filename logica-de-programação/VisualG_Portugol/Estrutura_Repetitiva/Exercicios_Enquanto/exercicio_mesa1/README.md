@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Teste de Mesa 1
 
-<a href="/logica-de-programacao/VisualG_Portugol/Estrutura_Condicional/Exercicios/exercicio_teste_mesa_1/exercicio_teste_mesa_1.alg">EXERCICIO_TESTE_MESA_1.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Repetitiva/Exercicios_Enquanto/exercicio_mesa1/teste_mesa1.alg">EXERCICIO_TESTE_MESA_1.ALG</a>
 
 ### Descrição
 

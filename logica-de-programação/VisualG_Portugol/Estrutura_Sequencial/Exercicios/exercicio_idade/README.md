@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Idade
 
-<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/idade/idade.alg">EXERCICIO_IDADE.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/exercicio_idade/EXERCICIO_IDADE.ALG">EXERCICIO_IDADE.ALG</a>
 
 ### Descrição
 
@@ -84,4 +84,4 @@ A idade média de João e Maria é 27.5 anos.
 
 ### Licença
 
-Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](LICENSE).
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.md).

@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Crescente ou Decrescente
 
-<a href="/logica-de-programacao/VisualG_Portugol/Estrutura_Condicional/Exercicios/exercicio_crescente/exercicio_crescente.alg">EXERCICIO_CRESCENTE.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Repetitiva/Exercicios_Enquanto/exercicio_crescente/exercicio_crescente.alg">EXERCICIO_CRESCENTE.ALG</a>
 
 ### Descrição
 

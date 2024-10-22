@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Média das Idades
 
-<a href="/logica-de-programacao/VisualG_Portugol/Estrutura_Condicional/Exercicios/exercicio_media_idades/exercicio_media_idades.alg">EXERCICIO_MEDIA_IDADES.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Repetitiva/Exercicios_Enquanto/exercicio_media_idades/exercicio_media_idades.alg">EXERCICIO_MEDIA_IDADES.ALG</a>
 
 ### Descrição
 

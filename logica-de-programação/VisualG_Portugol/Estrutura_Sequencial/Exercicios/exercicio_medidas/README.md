@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Medidas
 
-<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/medidas/medidas.alg">EXERCICIO_MEDIDAS.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/exercicio_medidas/EXERCICIO_MEDIDAS.ALG">EXERCICIO_MEDIDAS.ALG</a>
 
 ### Descrição
 
@@ -87,4 +87,4 @@ AREA DO TRAPEZIO = 17.5000
 
 ### Licença
 
-Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](LICENSE).
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.md).

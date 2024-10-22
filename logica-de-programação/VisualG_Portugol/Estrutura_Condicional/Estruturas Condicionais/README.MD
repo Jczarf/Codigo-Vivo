@@ -147,7 +147,7 @@ Este projeto continua a evoluir com exercícios e aplicações práticas.
 
 ### Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](/LICENSE.md) para mais detalhes.
 
 ---
 

@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Soma
 
-<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/Soma/soma.alg">EXERCICIO_SOMA.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/exercicio_soma/EXERCICIO_SOMA.ALG">EXERCICIO_SOMA.ALG</a>
 
 ### Descrição
 
@@ -90,4 +90,4 @@ SOMA = 30
 
 ### Licença
 
-Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](LICENSE).
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.md).

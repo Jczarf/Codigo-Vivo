@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Pares Consecutivos
 
-<a href="/logica-de-programacao/VisualG_Portugol/Estrutura_Condicional/Exercicios/exercicio_pares_consecutivos/exercicio_pares_consecutivos.alg">EXERCICIO_PARES_CONSECUTIVOS.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Repetitiva/Exercicios_Enquanto/exercicio_pares/exercicio_pares.alg">EXERCICIO_PARES_CONSECUTIVOS.ALG</a>
 
 ### Descrição
 

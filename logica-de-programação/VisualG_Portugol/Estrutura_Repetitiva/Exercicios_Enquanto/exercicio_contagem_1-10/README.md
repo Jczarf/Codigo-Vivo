@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Contagem de 1 a 10
 
-<a href="/logica-de-programacao/VisualG_Portugol/Estrutura_Condicional/Exercicios/exercicio_contagem_1-10/exercicio_contagem_1-10.alg">EXERCICIO_CONTAGEM_1-10.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Repetitiva/Exercicios_Enquanto/exercicio_contagem_1-10/exercicio_contagem_1-10.alg">EXERCICIO_CONTAGEM_1-10.ALG</a>
 
 ### Descrição
 

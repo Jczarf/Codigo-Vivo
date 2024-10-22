@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Retângulo
 
-<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/exercicio_retangulo/exercicio_retangulo.alg">EXERCICIO_RETANGULO.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/exercicio_retangulo/EXERCICIO_RETANGULO.ALG">EXERCICIO_RETANGULO.ALG</a>
 
 ### Descrição
 
@@ -85,4 +85,4 @@ DIAGONAL = 6.4031
 
 ### Licença
 
-Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](LICENSE).
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.md).

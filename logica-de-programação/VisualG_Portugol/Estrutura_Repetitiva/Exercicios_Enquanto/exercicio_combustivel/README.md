@@ -1,6 +1,6 @@
 # 🚀 Exercicio de Lógica de Programação: Combustível
 
-<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Condicional/Exercicios/exercicio_combustivel/exercicio_combustivel.alg">EXERCICIO_COMBUSTIVEL.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Repetitiva/Exercicios_Enquanto/exercicio_combustivel/exercicio_combustivel.alg">EXERCICIO_COMBUSTIVEL.ALG</a>
 
 ### Descrição
 

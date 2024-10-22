@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Número Par ou Ímpar
 
-<a href="/logica-de-programacao/VisualG_Portugol/Estrutura_Condicional/Exercicios/exercicio_numero_par/exercicio_numero_par.alg">EXERCICIO_NUMERO_PAR.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Repetitiva/Exercicios_Enquanto/exercicio_NumeroPar/exercicio_NumeroPar.alg">EXERCICIO_NUMERO_PAR.ALG</a>
 
 ### Descrição
 

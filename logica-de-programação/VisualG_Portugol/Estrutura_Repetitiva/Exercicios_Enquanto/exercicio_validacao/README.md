@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Validação de Senha
 
-<a href="/logica-de-programacao/VisualG_Portugol/Estrutura_Condicional/Exercicios/exercicio_validacao/exercicio_validacao.alg">EXERCICIO_VALIDAÇÃO.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Repetitiva/Exercicios_Enquanto/exercicio_validacao/exercicio_validacao.alg">EXERCICIO_VALIDAÇÃO.ALG</a>
 
 ### Descrição
 
@@ -71,6 +71,7 @@ Acesso bloqueado!
 
 ---
 
+
 ### Licença
 
-Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](LICENSE).
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.md).

@@ -118,3 +118,6 @@ A operação **NÃO** inverte o resultado da condição. Se a condição for ver
 
 Essas expressões comparativas e operadores lógicos são fundamentais para criar **estruturas condicionais** mais robustas e definir o fluxo dos programas de acordo com diferentes condições.
 
+### Licença
+
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](/LICENSE.md) para mais detalhes.

@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Pagamento
 
-<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/pagamento.alg">EXERCICIO_PAGAMENTO.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/exercicio_pagamento/EXERCICIO_PAGAMENTO.ALG">EXERCICIO_PAGAMENTO.ALG</a>
 
 ### Descrição
 
@@ -75,4 +75,4 @@ O pagamento para João deve ser 820.00
 
 ### Licença
 
-Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](LICENSE).
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.md).

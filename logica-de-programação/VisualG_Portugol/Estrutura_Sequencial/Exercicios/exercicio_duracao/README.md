@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Duração
 
-<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/duracao/duracao.alg">EXERCICIO_DURACAO.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/exercicio_duracao/EXERCICIO_DURACAO.ALG">EXERCICIO_DURACAO.ALG</a>
 
 ### Descrição
 
@@ -76,4 +76,4 @@ Digite a duração em segundos: 3661
 
 ### Licença
 
-Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](LICENSE).
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.md).

@@ -59,7 +59,7 @@ Se você está acompanhando esta trilha e gostaria de colaborar com dicas, suges
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](/LICENSE.md) para mais detalhes.
 
 ---
 

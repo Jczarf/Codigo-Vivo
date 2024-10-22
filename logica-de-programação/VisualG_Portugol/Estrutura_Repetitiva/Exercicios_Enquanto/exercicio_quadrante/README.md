@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Quadrante
 
-<a href="/logica-de-programacao/VisualG_Portugol/Estrutura_Condicional/Exercicios/exercicio_quadrante/exercicio_quadrante.alg">EXERCICIO_QUADRANTE.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Repetitiva/Exercicios_Enquanto/exercicio_quadrante/exercicio_quadrante.alg">EXERCICIO_QUADRANTE.ALG</a>
 
 ### Descrição
 

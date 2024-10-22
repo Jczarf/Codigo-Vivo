@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Soma Enquanto
 
-<a href="/logica-de-programacao/VisualG_Portugol/Estrutura_Condicional/Exercicios/exercicio_soma_enquanto/exercicio_soma_enquanto.alg">EXERCICIO_SOMA_ENQUANTO.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Repetitiva/Exercicios_Enquanto/exercicio_SomaEnquanto/exercicio_SomaEnquanto.alg">EXERCICIO_SOMA_ENQUANTO.ALG</a>
 
 ### Descrição
 

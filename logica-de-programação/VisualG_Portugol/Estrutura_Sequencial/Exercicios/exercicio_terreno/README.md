@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Terreno
 
-<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/terreno/terreno.alg">EXERCICIO_Terreno.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/exercicio_terreno/EXECICIO_TERRENO.ALG">EXERCICIO_Terreno.ALG</a>
 
 ### Descrição
 
@@ -80,4 +80,4 @@ Preço do terreno = 10000.00
 
 ### Licença
 
-Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](LICENSE).
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.md).

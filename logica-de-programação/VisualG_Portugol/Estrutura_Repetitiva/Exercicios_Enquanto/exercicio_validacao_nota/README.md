@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Validação de Nota
 
-<a href="/logica-de-programacao/VisualG_Portugol/Estrutura_Condicional/Exercicios/exercicio_validacao_de_nota/exercicio_validacao_de_nota.alg">EXERCICIO_VALIDAÇÃO_DE_NOTA.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Repetitiva/Exercicios_Enquanto/exercicio_validacao_nota/exercicio_validacao_nota.alg">EXERCICIO_VALIDAÇÃO_DE_NOTA.ALG</a>
 
 ### Descrição
 
@@ -74,6 +74,7 @@ Média = 7.5
 
 ---
 
+
 ### Licença
 
-Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](LICENSE).
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.md).

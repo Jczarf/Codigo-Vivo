@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Consumo
 
-<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/consumo/consumo.alg">EXERCICIO_CONSUMO.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/exercicio_consumo/EXERCICIO_CONSUMO.ALG">EXERCICIO_CONSUMO.ALG</a>
 
 ### Descrição
 
@@ -70,4 +70,4 @@ Consumo Médio: 14.286
 
 ### Licença
 
-Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](LICENSE).
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.mdE).

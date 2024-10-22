@@ -12,16 +12,16 @@ O objetivo é consolidar meu entendimento sobre as estruturas de decisão, opera
 
 ### 🗂️ Índice de Pastas 
 
-1. [Expressões Comparativas](./Expressoes_Comparativas)  
+1. [Expressões Comparativas](/logica-de-programação/VisualG_Portugol/Estrutura_Condicional/Expressões%20comparativas/)  
    Aqui exploro os operadores de comparação usados para formar condições lógicas nos programas.
 
-2. [Expressões Lógicas](./Expressoes_Logicas)  
+2. [Expressões Lógicas](/logica-de-programação/VisualG_Portugol/Estrutura_Condicional/Expressões%20Lógicas/)  
    Explicando o uso dos operadores lógicos como **E**, **OU**, e **NÃO**, e como eles podem ser combinados para criar condições mais complexas.
 
-3. [Estruturas Condicionais](./Estruturas_Condicionais)  
+3. [Estruturas Condicionais](/logica-de-programação/VisualG_Portugol/Estrutura_Condicional/Estruturas%20Condicionais/)  
    Estruturas como **se/senao** são usadas para fazer o algoritmo tomar decisões e seguir diferentes caminhos, conforme as condições estabelecidas.
 
-4. [Exercícios](./Exercicios)  
+4. [Exercícios](/logica-de-programação/VisualG_Portugol/Estrutura_Condicional/Exercicios/)  
    Aplicação prática com exercícios, onde resolvo problemas com base nos conceitos aprendidos.
 
 ---
@@ -58,7 +58,7 @@ O objetivo é consolidar meu entendimento sobre as estruturas de decisão, opera
 
 ### 📜 Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](/LICENSE.md) para mais detalhes.
 
 ---
 

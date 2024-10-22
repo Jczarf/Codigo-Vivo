@@ -1,7 +1,7 @@
 
 # 🚀 Exercicio de Lógica de Programação: Calculadora IMC
 
-<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/imc/imc.alg">EXERCICIO_IMC.ALG</a>
+<a href="/logica-de-programação/VisualG_Portugol/Estrutura_Sequencial/Exercicios/calculadora_imc/Calculadora_IMC.alg">EXERCICIO_IMC.ALG</a>
 
 ### Descrição
 
@@ -73,4 +73,4 @@ Seu IMC é: 23.15
 
 ### Licença
 
-Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](LICENSE).
+Este exercício faz parte do meu projeto pessoal de aprendizagem e está disponível sob a licença [MIT](/LICENSE.md).
